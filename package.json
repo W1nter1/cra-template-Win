@@ -1,0 +1,30 @@
+{
+  "name": "cra-template-win",
+  "version": "1.0.0",
+  "description": "a base template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/W1nter1/cra-template-Win.git"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "antd-mobile",
+    "hooks"
+  ],
+  "author": "Ydd",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/W1nter1/cra-template-Win/issues"
+  },
+  "homepage": "https://github.com/W1nter1/cra-template-Win#readme",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
